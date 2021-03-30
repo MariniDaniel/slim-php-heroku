@@ -5,8 +5,15 @@ que las calcule invocando la función pow).
  Marini Daniel.-
 */
 
+for ($i=1; $i < 5; $i++) { 
+    calcularPotencia($i);
+    
+}
 
-
+function calcularPotencia($num){
+    
+    printf(pow($num,2));
+}
 	
 ?>
 	
