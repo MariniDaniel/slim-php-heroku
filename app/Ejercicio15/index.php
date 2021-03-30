@@ -1,6 +1,6 @@
 <?php 
-include_once "rectangulo.php";
-include_once "triangulo.php";
+include_once "Rectangulo.php";
+include_once "Triangulo.php";
 
 /*
 Aplicación Nº 15 (Figuras geométricas)

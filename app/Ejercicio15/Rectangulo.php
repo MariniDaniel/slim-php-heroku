@@ -46,32 +46,4 @@ class Rectangulo extends FiguraGeometrica
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ?>
